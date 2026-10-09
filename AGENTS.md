@@ -1,4 +1,4 @@
-# Rules for assistants working on Claude Mini Pet (claude-mini-pet)
+# Rules for assistants working on Claude Bot (claude-bot)
 
 *A pet app by Astra.* Public credit is always **Astra**, never a legal name. Keep work
 information (including any employer's name) out of this repo.

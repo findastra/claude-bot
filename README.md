@@ -1,4 +1,4 @@
-# Claude Mini Pet
+# Claude Bot
 
 *A pet app by Astra.*
 
