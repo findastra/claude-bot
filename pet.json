@@ -1,0 +1,11 @@
+{
+  "pet": "Claude Mini Pet",
+  "kind": "pet-app",
+  "owner": "Astra",
+  "job": "A small floating Claude control on the Windows desktop: an orange face, a status bubble and a quick-chat box.",
+  "runs_on": "Windows (planned: C# compiled with the .NET Framework compiler included with Windows).",
+  "entry": "README.md",
+  "status": "hatching",
+  "cage": { "topic": "pet-app", "home": "README.md" },
+  "built_with": "Claude Opus 5.5 (claude-opus-5-5), 2026-10-09"
+}
