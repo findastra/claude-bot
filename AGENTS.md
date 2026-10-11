@@ -6,6 +6,8 @@ information (including any employer's name) out of this repo.
 Started with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-09. Record your model name and
 version here when you change something substantial.
 
+Original nine-mood art draft added with OpenAI Codex (GPT-6), built-in imagegen, 2026-10-11.
+
 ## What this is
 A small always-on-top Windows control for Claude with an orange face. See
 [docs/plan-20261009.md](docs/plan-20261009.md). Its host is the Friendly Farmer in

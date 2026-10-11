@@ -14,7 +14,8 @@ build is handoff card [001](handoffs/001-any-build-v0.md).
 
 ## Limits
 - **Hatching.** No app code exists yet.
-- No pixel twin yet. The Farmer's card 001 in the Cage covers the art, and it waits on
-  Astra's OK because generating costs money.
+- [An original orange-faced pixel-art draft](draft-art/claude-bot/idle-20261011.png) and
+  [nine mood frames](draft-art/claude-bot/manifest-20261011.json) are ready for Astra's review.
+  The draft is not yet registered in the Cage or connected to an app.
 - Claude desktop has no public way for another program to read its running chats, so the
   status bubble can only show quick chats this app starts itself, until that changes.
