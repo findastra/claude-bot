@@ -4,19 +4,20 @@
   "assistant": "OpenAI Codex (GPT-6)",
   "date": "2026-10-11",
   "status": "draft",
-  "desktop_scale": 1,
+  "desktop_scale": 1.5,
   "sparkles": false,
   "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
   "art_files": [
-    "desktop-art/claude-bot/idle-20261011.png",
+    "desktop-art/claude-bot/alarmed-20261011.png",
     "desktop-art/claude-bot/blink-20261011.png",
-    "desktop-art/claude-bot/happy-20261011.png",
     "desktop-art/claude-bot/curious-20261011.png",
-    "desktop-art/claude-bot/worried-20261011.png",
+    "desktop-art/claude-bot/happy-20261011.png",
+    "desktop-art/claude-bot/idle-20261011.png",
     "desktop-art/claude-bot/sad-20261011.png",
     "desktop-art/claude-bot/sick-20261011.png",
-    "desktop-art/claude-bot/alarmed-20261011.png",
-    "desktop-art/claude-bot/sleep-20261011.png"
+    "desktop-art/claude-bot/sleep-20261011.png",
+    "desktop-art/claude-bot/worried-20261011.png"
   ],
-  "notes": "BSOD twin with orange screen."
+  "notes": "Orange-screen BSOD twin, fixed 88.125 logical-pixel height to match the owner's small BSOD.",
+  "source_sheet": "desktop-art/claude-bot/sheet-20261011.png"
 }
