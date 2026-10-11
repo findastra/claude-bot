@@ -19,3 +19,5 @@ build is handoff card [001](handoffs/001-any-build-v0.md).
   The draft is not yet registered in the Cage or connected to an app.
 - Claude desktop has no public way for another program to read its running chats, so the
   status bubble can only show quick chats this app starts itself, until that changes.
+
+Desktop appearance draft updated 2026-10-11: see [desktop details](desktop-pet-20261011.json). This changes the desktop pet, not application features.
