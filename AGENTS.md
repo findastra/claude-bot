@@ -11,10 +11,10 @@ Original nine-mood art draft added with OpenAI Codex (GPT-6), built-in imagegen,
 ## What this is
 A small always-on-top Windows control for Claude with an orange face. See
 [docs/plan-20261009.md](docs/plan-20261009.md). Its host is the Friendly Farmer in
-`findastra/astras-pet-apps`. The pet's registry entry and art live there, not here.
+`findastra/astras-pet-os`. The pet's registry entry and art live there, not here.
 
 ## Rules
-- Follow the Cage's [PET-FILES.md](https://github.com/findastra/astras-pet-apps/blob/main/PET-FILES.md).
+- Follow the Cage's [PET-FILES.md](https://github.com/findastra/astras-pet-os/blob/main/PET-FILES.md).
 - **Original look.** Same features as the Codex/ChatGPT Mini, never its artwork, icons, layout
   or wording.
 - **Never commit** API keys, `.env` files or chat history. Chats stay on the PC.
@@ -24,7 +24,7 @@ A small always-on-top Windows control for Claude with an orange face. See
 
 ## Handoffs
 When Astra's request is unclear or sounds like an assignment, check GitHub first: `handoffs/`
-here, in `findastra/astras-pet-apps`, and in the other `findastra` repos. Leave a card when work
+here, in `findastra/astras-pet-os`, and in the other `findastra` repos. Leave a card when work
 remains. Format: [skills/handoff/SKILL.md](skills/handoff/SKILL.md).
 
-Desktop appearance revision by OpenAI Codex (GPT-6), 2026-10-11. See desktop-pet-20261011.json; runtime behavior is in astras-pet-apps.
+Desktop appearance revision by OpenAI Codex (GPT-6), 2026-10-11. See desktop-pet-20261011.json; runtime behavior is in astras-pet-os.
