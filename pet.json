@@ -2,7 +2,7 @@
   "pet": "Claude Bot",
   "kind": "pet-app",
   "owner": "Astra",
-  "job": "A small floating Claude control on the Windows desktop: an orange face, a status bubble and a quick-chat box.",
+  "job": "Claude’s twin of ChatGPT’s BSOD desktop pet, in looks and in function: an orange face on the Windows desktop that shows Claude’s live status in a bubble and opens quick chat.",
   "runs_on": "Windows (planned: C# compiled with the .NET Framework compiler included with Windows).",
   "entry": "README.md",
   "status": "hatching",
@@ -12,5 +12,10 @@
   },
   "built_with": "Claude Opus 5.5 (claude-opus-5-5), 2026-10-09; OpenAI Codex (GPT-6), 2026-10-11",
   "desktop_pet": "desktop-pet-20261011.json",
-  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11"
+  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "the Claude Bot plan and build",
+    "needs": "a decision on the plan"
+  }
 }

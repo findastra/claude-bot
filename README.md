@@ -6,7 +6,7 @@ A small control for Claude that floats above your other windows on Windows. It h
 face, a status bubble, a bell for updates, and a keyboard shortcut that opens a quick-chat box.
 It does the same job as the Codex/ChatGPT desktop "Mini", with its own look.
 
-It lives in the Cage: [astras-pet-apps](https://github.com/findastra/astras-pet-apps).
+It lives in the Cage: [astras-pet-os](https://github.com/findastra/astras-pet-os).
 
 ## How to run it
 Nothing to run yet. The plan is in [docs/plan-20261009.md](docs/plan-20261009.md), and the
